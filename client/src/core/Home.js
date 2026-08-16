@@ -24,7 +24,7 @@ export default function Home() {
         </div>
       ))}
       <p style={{ textAlign: "center", marginTop: 40, color: "#aaa", fontSize: 12 }}>
-  InkWell — a COMP229 project by Slyme
+  InkWell — a COMP229 project by Mohammed Tackie
 </p>
     </div>
   );
